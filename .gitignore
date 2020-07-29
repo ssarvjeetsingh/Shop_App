@@ -34,4 +34,5 @@
 lib/generated_plugin_registrant.dart
 
 # Exceptions to above rules.
+D:\flutter\udemy class\shop\lib\provider
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
